@@ -7,4 +7,4 @@ gym>=0.17.1
 pillow
 imageio
 ninja
-rl_pytorch@ file://localhost/Users/rgap/Libraries/isaacgym/python/rlgpu/rl-pytorch
+rl_pytorch@ file://localhost/home/paperspace/libraries/isaacgym/rlgpu/rl-pytorch

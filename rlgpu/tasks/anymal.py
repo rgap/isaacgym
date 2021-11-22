@@ -15,7 +15,7 @@ from isaacgym import gymtorch
 from isaacgym import gymapi
 
 import torch
-from torch.tensor import Tensor
+from torch import Tensor
 from typing import Tuple, Dict
 
 
